@@ -12,8 +12,12 @@ Multi-branch support
 
 Project structure:
 The solution is split into 8 sub-projects sharing a common SharedData layer:
+
 CustomerLogin, SignUp, PlaceOrder, BakedGoodsMenu, BeverageMenu, CustomerProfile, AdminCenter, SharedData.
+
 Technologies: C#, Windows Forms, .NET Framework 4.7.2, Visual Studio
+
 My contributions: PlcaeOrder Form, Admin Center
+
 What I learned: Multi-project solution architecture in Visual Studio, Windows Forms UI design, shared data layers across modules, and C# application development.
 
